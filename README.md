@@ -1,6 +1,8 @@
 #rBoiler : HTML5 Responsive Web Design Boilerplate
 
-rBoiler is boilerplate for developers designing responsive web designs. It extends [HTML5 Boilerplate][] by including  [Golden Grid System][] and [Respond JS][].
+rBoiler is boilerplate for developer's designing responsive sites. 
+
+It extends [HTML5 Boilerplate][] by including  [Golden Grid System][] and [Respond JS][].
 
 [HTML5 Boilerplate]: http://html5boilerplate.com/
 [Golden Grid System]: http://goldengridsystem.com/ "Grid system for responsive design"
