@@ -1,4 +1,4 @@
-#rBoiler : HTML5 Responsive Web Design Boilerplate
+#rBoiler: Responsive HTML5 Boilerplate
 
 rBoiler is boilerplate for developer's designing responsive sites. 
 
