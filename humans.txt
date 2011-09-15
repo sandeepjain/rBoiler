@@ -1,0 +1,17 @@
+/* the humans responsible & colophon */
+/* humanstxt.org */
+
+
+/* TEAM */
+  Web Developer: Sandeep
+  Site: http://www.jsvrocks.com
+  Twitter: @sandeepjain
+  Location: Mumbai, India
+
+/* THANKS */
+  Names (& URL): 
+
+/* SITE */
+  Standards: HTML5, CSS3
+  Components: jQuery
+  Software:
